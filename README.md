@@ -1,2 +1,2 @@
 # google_cert
-repo created for the github lab in the google automation with Python Certification
+I am editing the README file. Adding some more details about the project description.
